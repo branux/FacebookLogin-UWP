@@ -6,5 +6,5 @@ Exemplo básico de implentação de uma tela de login com facebook
 
 ________________________________________________________________________________________________
 <b>ScreenShot:<br><br>
-![ScreenShot](https://github.com/rubgithub/ListGroup-UWP/blob/master/Captura.PNG)
+![ScreenShot](https://github.com/rubgithub/FacebookLogin-UWP/blob/master/Login.PNG)
 
